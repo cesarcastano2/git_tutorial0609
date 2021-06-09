@@ -11,3 +11,5 @@ git add -p look through each change you made
 git commit -m "your message"
 
 ## push to online 
+git push 
+git push origin [branch-name] 
